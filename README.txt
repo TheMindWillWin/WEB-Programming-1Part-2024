@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Sergey Stepanov
+- 👀 I’m a student at Ispring Institute PS-12

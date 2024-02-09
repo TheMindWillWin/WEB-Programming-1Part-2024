@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Sergey Stepanov
-- 👀 I’m a student at Ispring Institute PS-12
+- 👀 I’m a student in Ispring Institute PS-12

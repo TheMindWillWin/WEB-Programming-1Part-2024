@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Oxygen:wght@300;400;700&display=swap');
+body {
+    font-family: "oxygen";
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    user-select: none;
+}
+.conteiner {
+    max-width: 940px;
+    margin: 0 auto;
+}
+.header {
+    padding: 17px 0;
+    width: 100%;
+}
+.logo {
+    display: inline-block;
+    vertical-align: bottom;
+}
+.logo img {
+    margin-bottom: -9px;
+    pointer-events: none;
+}
+.menu {
+    display: inline-block;
+    margin-right: -100%;
+    margin-left: -90px;
+    text-align: right;
+    width: 100%;
+    vertical-align: bottom;
+}
+.link {
+    padding: 10px 20px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.title {
+    width: 1440px;
+    height: 500px;
+    background: url(img/Titleimage.jpg) no-repeat;
+    color: (0, 0, 0, 0.5);
+    background-size: cover;
+}
+.ga {
+    font-size: 100px;
+}

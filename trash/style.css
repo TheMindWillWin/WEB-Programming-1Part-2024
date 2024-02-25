@@ -1,0 +1,114 @@
+body {
+    width: 1440px;
+    height: 2689px;
+    top: -1344px;
+    left: -720px; 
+    background-color: white;       
+}
+#head {
+    width: 1440px;
+    height: 74px;
+    position: relative;
+    top: 0px;
+    right: 0px;
+    left: 0px;       
+}
+#floor {
+    width: 1440px;
+    height: 74px;
+    position: relative;
+    top: 2600px;
+    right: 0px;
+    left: 0px;                
+}
+.logo {
+    position: relative;
+    right: px;
+    width: 92px;
+    height: 26px;    
+}
+#Headmenu {
+    position: relative;
+    width: 940px;
+    height: 40px;
+    top: 17px;
+    bottom: 17px;
+    left: 250px;
+    right: 250px; 
+  }
+#Lowermenu {
+    position: relative;
+    width: 940px;
+    height: 40px;
+    top: 17px;
+    bottom: 17px;
+    left: 250px;
+    right: 250px;  
+  }
+*#link {
+    width: 376.61px;
+    height: 40px; 
+    position: absolute;
+    left: 563px; 
+    top: auto;    
+}*
+.HOME {
+    width: 39px;
+    height: 20px;
+    margin: 76px, 40px;
+    position: static;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    text-decoration: none
+}
+.CATEGORIES {
+    width: 78px;
+    height: 20px;
+    margin: 118px, 40px;
+    text-decoration: none
+}
+.ABOUT {
+    width: 41px;
+    height: 20px;
+    margin: 81px, 40px;
+    text-decoration: none
+}
+.CONTACT {
+    width: 58px;
+    height: 20px;
+    margin: 98px, 40px;
+    text-decoration: none
+}
+img {
+    width: 1440px;
+    height: 534px;
+    position: relative;
+    top: 360px;
+}
+#Main {
+    width: 1431px;
+    height: 960px;
+    position: relative;
+    top: 1034px;
+    right: 240px;
+    left: 240px;
+    bottom: 135px;
+}
+h1 {
+    Width: 498px;
+    Height: 51px;
+    position: relative;
+    top: 156px;
+    right: 471px;
+    left: 471px;
+}
+h5 {
+    Width: 498px;
+    Height: 51px;
+    position: relative;
+    top: 156px;
+    right: 471px;
+    left: 471px;
+}

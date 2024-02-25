@@ -1,0 +1,198 @@
+body {
+    width: 1440px;
+    height: 2689px;
+    background-color: white;
+    margin: 0px;       
+}
+.head {
+    width: 1440px;
+    height: 74px;
+    margin: 0px;
+}
+.headmenu {    
+    display: inline-block;
+    width: 940px;
+    height: 40px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    margin-left: 250px;
+    margin-right: 250px; 
+  }
+.logo {
+    padding-right: 471.39px;
+    padding-top: 3px;
+    padding-bottom: 11px;
+}
+.button {
+    display: inline;
+    width: 376px;
+    height: 40px;
+    font-family: Oxygen;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6000000238418579px;
+    text-align: left;
+}
+.photo {
+    width: 1440px;
+    height: 534px;
+    margin-top: 38px;
+}
+.HOMEh {
+    width: 39px;
+    height: 20px;
+    padding-top: 10px;
+    padding-right: 41px; 
+    padding-bottom: 10px;
+    padding-left: 19px;
+    text-decoration: none;
+    color: #000000;
+}
+.CATEGORIESh {
+    width: 78px;
+    height: 20px;
+    padding-top: 10px;
+    padding-right: 40px; 
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: #000000;
+}
+.ABOUTh {
+    width: 41px;
+    height: 20px;
+    padding-top: 10px;
+    padding-right: 40px; 
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: #000000;
+}
+.CONTACTh {
+    width: 58px;
+    height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: #000000;
+}
+.title {
+    width: 940px;
+    height: 159px;
+    margin-top: 89px;
+    margin-left: 250px;
+    margin-right: 250px;    
+}
+.maintitle {
+    width: 498px;
+    height: 51px;
+    padding-left: 221px;
+    padding-right: 221px;  
+    margin: 0px; 
+    font-family: Lora;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 51px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.complementarytitle{
+    width: 504px;
+    height: 20px;
+    padding-top: 20px;
+    padding-left: 218px;
+    padding-right: 218px;
+    margin: 0px;
+    font-family: Oxygen;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.text {
+    width: 960px;
+    height: 1431px;
+    margin-top: 140px;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 135px;
+    font-family: Oxygen;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.floor {
+    width: 1440px;
+    height: 89px;
+    background-image: url("background.jpg");
+    background-size: cover;
+    margin: 0px;
+}
+.floormenu {
+    width: 960px;
+    height: 34px;
+    margin-top: 28px;
+    margin-left:  240px;
+    margin-right:  240px;
+    display: inline-block;
+}
+
+.buttonfloor {
+    display: inline;
+    width: 639.98px;
+    height: 32px;
+    padding: 3px, 9.97px, 3px, 358.02px;
+    font-family: Oxygen;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-align: right;
+    color: 255, 255, 255, 0.6;
+}
+.logofloor {
+    padding-right: 217.98px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-left: 10;
+    color: 255, 255, 255, 1;
+    display: inline;
+}
+.HOMEf {
+    width: 37px;
+    height: 26px;
+    padding-top: 3px;
+    padding-right: 20px; 
+    padding-bottom: 3px;
+    padding-left: 358.02px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.CATEGORIESf {
+    width: 76px;
+    height: 26px;
+    padding-top: 3px;
+    padding-right: 20px; 
+    padding-bottom: 3px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.ABOUTf {
+    width: 42px;
+    height: 26px;
+    padding-top: 3px;
+    padding-right: 20px; 
+    padding-bottom: 3px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.CONTACTf {
+    width: 57px;
+    height: 26px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-decoration: none;
+    color: #ffffff;
+}
